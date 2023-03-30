@@ -22,12 +22,13 @@ about:
 ---
 
 <!-- based on https://ddimmery.com/ -->
+<!-- and https://github.com/samanthacsik/samanthacsik.github.io -->
 
 ### About
 <p class="topbr">
-I am a Reader in Cognitive Psychology at [Keele University, UK](https://www.keele.ac.uk/psychology/) where I am the Research Group Lead for the Cognition, Brain, & Behaviour group in the School. I am also the University Academic Lead for Resarch Integrity and Improvement. I joined Keele in 2010 after completing my PhD at Bangor University under the supervision of [Dr George Houghton.](https://www.bangor.ac.uk/psychology/people/profiles/george_houghton.php.en)
+I am a [Reader](https://en.wikipedia.org/wiki/Reader_(academic_rank)) in Cognitive Psychology at [Keele University, UK](https://www.keele.ac.uk/psychology/) and Director of Research for the School of Psychology. I am also the University's Lead for Research Integrity and Improvement. I joined Keele in 2010 after completing my PhD at Bangor University under the supervision of [Dr George Houghton.](https://www.bangor.ac.uk/psychology/people/profiles/george_houghton.php.en)
 
-The mission of my lab\'s work is to conduct rigorous fundamental research to understand cognitive control processes, and to then use this knowledge to tackle clinical and applied questions. I utilise behavioural measures together with computational modelling to address my research questions. 
+The mission of my lab's work is to conduct rigorous fundamental research to understand cognitive control processes, and to then use this knowledge to tackle clinical and applied questions. I utilise behavioural measures together with computational modelling to address my research questions. 
 </p>
 
 ---
