@@ -1,0 +1,53 @@
+---
+title: "Publications"
+---
+The following documents have been posted on this website to facilitate the timely dissemination of scholarly work to individuals for personal research and study. By accessing any of the documents, you agree to adhere to the terms and constraints invoked by each author or copyright holder. You may not repost or reproduce any of the documents without the permission of the copyright holder.
+
+Please contact me to receive copies of any publications that are not available here as PDFs.
+
+
+## Under Review
+
+## In Press
+<i class="fas fa-file-alt"></i> **Grange, J.A.** (2023). Rumination and inhibition in task switching: no evidence for an association. *Cognition and Emotion*. 
+<a href="https://testwebsite.com" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a> --- 
+<a href="https://psyarxiv.com" target="_blank"><button><i class="fas fa-graduation-cap"></i> PsyArXiv</button></a> --- 
+<a href="https://example.com" target="_blank"><button><i class="fas fa-laptop"></i> Code</button></a> --- 
+<a href="https://example.com" target="_blank"><button><i class="fas fa-chart-bar"></i> Data</button></a>
+
+
+
+## 2023
+<i class="fas fa-file-alt"></i> **Grange, J.A.** (2023). Another est publication. *Journal of test publications, 13*, 234-345. 
+<a href="https://testwebsite.com" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a> --- 
+<a href="https://psyarxiv.com" target="_blank"><button><i class="fas fa-graduation-cap"></i> PsyArXiv</button></a> --- 
+<a href="https://example.com" target="_blank"><button><i class="fas fa-laptop"></i> Code</button></a> --- 
+<a href="https://example.com" target="_blank"><button><i class="fas fa-chart-bar"></i> Data</button></a>
+
+<i class="fas fa-file-alt"></i> **Grange, J.A.** (2023). Another est publication. *Journal of test publications, 13*, 234-345. 
+<a href="https://testwebsite.com" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a> --- 
+<a href="https://psyarxiv.com" target="_blank"><button><i class="fas fa-graduation-cap"></i> PsyArXiv</button></a> --- 
+<a href="https://example.com" target="_blank"><button><i class="fas fa-laptop"></i> Code</button></a> --- 
+<a href="https://example.com" target="_blank"><button><i class="fas fa-chart-bar"></i> Data</button></a>
+
+<i class="fas fa-file-alt"></i> **Grange, J.A.** (2023). Another est publication. *Journal of test publications, 13*, 234-345. 
+<a href="https://testwebsite.com" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a> --- 
+<a href="https://psyarxiv.com" target="_blank"><button><i class="fas fa-graduation-cap"></i> PsyArXiv</button></a> --- 
+<a href="https://example.com" target="_blank"><button><i class="fas fa-laptop"></i> Code</button></a> --- 
+<a href="https://example.com" target="_blank"><button><i class="fas fa-chart-bar"></i> Data</button></a>
+
+
+## 2022
+<i class="fas fa-file-alt"></i> **Grange, J.A.** (2023). Another est publication. *Journal of test publications, 13*, 234-345. 
+<a href="https://testwebsite.com" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a> --- 
+<a href="https://psyarxiv.com" target="_blank"><button><i class="fas fa-graduation-cap"></i> PsyArXiv</button></a> --- 
+<a href="https://example.com" target="_blank"><button><i class="fas fa-laptop"></i> Code</button></a> --- 
+<a href="https://example.com" target="_blank"><button><i class="fas fa-chart-bar"></i> Data</button></a>
+
+<i class="fas fa-file-alt"></i> **Grange, J.A.** (2023). Another est publication. *Journal of test publications, 13*, 234-345. 
+<a href="https://testwebsite.com" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a> --- 
+<a href="https://psyarxiv.com" target="_blank"><button><i class="fas fa-graduation-cap"></i> PsyArXiv</button></a> --- 
+<a href="https://example.com" target="_blank"><button><i class="fas fa-laptop"></i> Code</button></a> --- 
+<a href="https://example.com" target="_blank"><button><i class="fas fa-chart-bar"></i> Data</button></a>
+
+## 2021

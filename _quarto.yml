@@ -10,7 +10,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: publications.qmd
+        text: Publications
   # tools:
   #     - icon: twitter
   #       href: https://twitter.com

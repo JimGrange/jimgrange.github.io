@@ -1,9 +1,0 @@
----
-title: "About"
----
-
-About this site. Here's some R code:
-
-```{r}
-1 + 1
-```
