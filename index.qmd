@@ -25,7 +25,6 @@ The mission of my lab\'s work is to conduct fundamental research to understand c
 
 
 ::: {.grid}
-
 ::: {.g-col-6}
 
 ## <i class="fas fa-flask"></i> Research Interests
@@ -41,6 +40,7 @@ The mission of my lab\'s work is to conduct fundamental research to understand c
 
 * PhD in Cognitive Psychology (2010)
 * MSc in Psychological Research (2007)
+* BSc in Psychology (2006)
 
 :::
   
