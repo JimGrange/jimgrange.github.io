@@ -2,15 +2,22 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Test Website",
+    "title": "About",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "I am a Reader in Cognitive Psychology at Keele University, UK where I am the Research Group Lead for the Cognition, Brain, & Behaviour group in the School. I am also the University Academic Lead for Resarch Integrity and Improvement. I joined Keele in 2010 after completing my PhD at Bangor University under the supervision of Dr George Houghton.\nThe mission of my lab's work is to conduct fundamental research to understand cognitive control processes, and to then use this knowledge to tackle clinical and applied questions"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "About this site. Here’s some R code:\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "pages/about.html",
+    "href": "pages/about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site. Here’s some R code:\n\n1 + 1\n\n[1] 2"
   }
 ]

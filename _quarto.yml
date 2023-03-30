@@ -3,12 +3,23 @@ project:
   output-dir: docs
 
 website:
-  title: "Test Website"
+  title: "Jim Grange"
   navbar:
+    background: skyblue
+    foreground: light
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+  # tools:
+  #     - icon: twitter
+  #       href: https://twitter.com
+  #     - icon: github
+  #       menu:
+  #         - text: Source Code
+  #           url:  https://github.com/JimGrange/jimgrange.github.io
+  #         - text: Report a Bug
+  #           url:  https://github.com/JimGrange/jimgrange.github.io/issues
 
 format:
   html:

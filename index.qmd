@@ -1,11 +1,47 @@
 ---
-title: "Test Website"
+title: "About"
+# description: "Test description"
+page-layout: full
+image: /portrait.jpg
+resources:
+    - "portrait.jpg"
 ---
 
-This is a Quarto website.
+<!-- based on https://ddimmery.com/ -->
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {.column-page-inset}
+::: {.column-page-inset-left}
+I am a Reader in Cognitive Psychology at [Keele University, UK](https://www.keele.ac.uk/psychology/) where I am the Research Group Lead for the Cognition, Brain, & Behaviour group in the School. I am also the University Academic Lead for Resarch Integrity and Improvement. I joined Keele in 2010 after completing my PhD at Bangor University under the supervision of [Dr George Houghton.](https://www.bangor.ac.uk/psychology/people/profiles/george_houghton.php.en)
 
-```{r}
-1 + 1
+The mission of my lab\'s work is to conduct fundamental research to understand cognitive control processes, and to then use this knowledge to tackle clinical and applied questions
+:::
+
+<div class="column-margin column-container">
+![](portrait.jpeg){.rounded}
+</div>
+:::
+
+
+
+{{< pagebreak >}}
+
+::: {.column-page-inset .text-center}
+```{=html}
+<a class="btn btn-outline-dark", href="https://twitter.com/JimGrange" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-twitter" role='img' aria-label='Twitter'></i>
+</a>
+
+<a class="btn btn-outline-dark", href="https://github.com/JimGrange" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-github" role='img' aria-label='Github'></i>
+</a>
+
+<a class="btn btn-outline-dark" href="https://scholar.google.com/citations?user=ylTSIMMAAAAJ&hl=en" target="_blank" rel="noopener noreferrer" aria-label="Google-Scholar">
+    <i class="ai ai-google-scholar"></i>
+</a>
+
+
+<a class="btn btn-outline-dark", href="mailto:grange.jim@gmail.com" target="_blank" rel="noopener noreferrer">
+    <i class="ai bi-envelope" role='img' aria-label='email'></i>
+</a>
 ```
+:::
