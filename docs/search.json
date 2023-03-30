@@ -19,5 +19,33 @@
     "title": "About",
     "section": "",
     "text": "About this site. Here’s some R code:\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#first-column",
+    "href": "index.html#first-column",
+    "title": "About",
+    "section": "First column",
+    "text": "First column\nI would like to have text here\nSentence becomes longer, it should automatically stay in their column"
+  },
+  {
+    "objectID": "index.html#second-column",
+    "href": "index.html#second-column",
+    "title": "About",
+    "section": "Second column",
+    "text": "Second column\nand here\nMore text"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "About",
+    "section": " Research Interests",
+    "text": "Research Interests\n\nCognitive control processes\nComputational modelling\nCognition in clinical & applied settings\nReproducibility & open research"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "About",
+    "section": " Education",
+    "text": "Education\n\nPhD in Cognitive Psychology (2010)\nMSc in Psychological Research (2007)"
   }
 ]

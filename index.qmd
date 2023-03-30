@@ -16,10 +16,37 @@ I am a Reader in Cognitive Psychology at [Keele University, UK](https://www.keel
 The mission of my lab\'s work is to conduct fundamental research to understand cognitive control processes, and to then use this knowledge to tackle clinical and applied questions
 :::
 
+
+
 <div class="column-margin column-container">
 ![](portrait.jpeg){.rounded}
 </div>
 :::
+
+
+::: {.grid}
+
+::: {.g-col-6}
+
+## <i class="fas fa-flask"></i> Research Interests
+* Cognitive control processes
+* Computational modelling
+* Cognition in clinical & applied settings
+* Reproducibility & open research
+:::
+  
+::: {.g-col-6}
+
+## <i class="fas fa-book"></i> Education
+
+* PhD in Cognitive Psychology (2010)
+* MSc in Psychological Research (2007)
+
+:::
+  
+:::  
+
+
 
 
 
@@ -27,21 +54,14 @@ The mission of my lab\'s work is to conduct fundamental research to understand c
 
 ::: {.column-page-inset .text-center}
 ```{=html}
-<a class="btn btn-outline-dark", href="https://twitter.com/JimGrange" target="_blank" rel="noopener noreferrer">
-    <i class="bi bi-twitter" role='img' aria-label='Twitter'></i>
-</a>
 
-<a class="btn btn-outline-dark", href="https://github.com/JimGrange" target="_blank" rel="noopener noreferrer">
-    <i class="bi bi-github" role='img' aria-label='Github'></i>
-</a>
+<a class="btn btn-outline-dark", href="https://scholar.google.com/citations?user=ylTSIMMAAAAJ&hl=en/"><i class="fas fa-graduation-cap"></i></a>
 
-<a class="btn btn-outline-dark" href="https://scholar.google.com/citations?user=ylTSIMMAAAAJ&hl=en" target="_blank" rel="noopener noreferrer" aria-label="Google-Scholar">
-    <i class="ai ai-google-scholar"></i>
-</a>
+<a class="btn btn-outline-dark", href="https://github.com/JimGrange"><i class="fab fa-github"></i></a>
 
+<a class="btn btn-outline-dark", href="https://twitter.com/JimGrange"><i class="fab fa-twitter"></i></a>
 
-<a class="btn btn-outline-dark", href="mailto:grange.jim@gmail.com" target="_blank" rel="noopener noreferrer">
-    <i class="ai bi-envelope" role='img' aria-label='email'></i>
-</a>
+<a class="btn btn-outline-dark", href="mailto:grange.jim@gmail.com"><i class="far fa-envelope"></i></a>
+
 ```
 :::
