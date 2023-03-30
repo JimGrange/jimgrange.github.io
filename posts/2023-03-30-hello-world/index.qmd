@@ -1,0 +1,39 @@
+---
+title: "Hello World!"
+description: "First post testing the blogging functionality in Quarto!"
+author:
+  - name: Jim Grange
+    url: https://samanthacsik.github.io/
+    orcid: 0000-0000-0000-0000
+    affiliation: School of Psychology, Keele University
+    affiliation-url: https://ucsb-meds.github.io/ 
+date: 03-30-2023
+categories: [Quarto, R] # self-defined categories
+citation: 
+  url: https://jimgrange.github.io/posts/2023-03-30-hello-world/
+# image: preview_image.jpg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready
+---
+
+
+Hello world! This is, of course, a test!
+---
+
+```{r}
+library(tidyverse)
+
+set.seed(123)
+
+data <- tibble(
+  outcome = rnorm(1000), 
+  predictor = rnorm(1000)
+) %>% 
+  ggplot(aes(x = outcome, y = predictor)) + 
+  geom_point(alpha = 0.3, 
+             colour = "skyblue") + 
+  geom_smooth(method = "lm") + 
+  theme_bw() + 
+  labs(x = "Outcome variable", 
+       y = "Predictor variable")
+data
+```
