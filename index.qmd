@@ -1,70 +1,53 @@
+
 ---
-title: "About"
-# description: "Test description"
-page-layout: full
-image: /portrait.jpg
-resources:
-    - "portrait.jpg"
+title: "Jim Grange, PhD"
+image: images/portrait.jpeg
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 16em
+  links:
+    - icon: book 
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=ylTSIMMAAAAJ&hl=e/
+    - icon: github 
+      text: GitHub
+      href: https://github.com/JimGrange
+    - icon: twitter 
+      text: Twitter
+      href: https://twitter.com/JimGrange
+    - icon: envelope 
+      text: Email
+      href: mailto:grange.jim@gmail.com
 ---
 
 <!-- based on https://ddimmery.com/ -->
 
-::: {.column-page-inset}
-::: {.column-page-inset-left}
+### About
+<p class="topbr">
 I am a Reader in Cognitive Psychology at [Keele University, UK](https://www.keele.ac.uk/psychology/) where I am the Research Group Lead for the Cognition, Brain, & Behaviour group in the School. I am also the University Academic Lead for Resarch Integrity and Improvement. I joined Keele in 2010 after completing my PhD at Bangor University under the supervision of [Dr George Houghton.](https://www.bangor.ac.uk/psychology/people/profiles/george_houghton.php.en)
 
-The mission of my lab\'s work is to conduct fundamental research to understand cognitive control processes, and to then use this knowledge to tackle clinical and applied questions
-:::
+The mission of my lab\'s work is to conduct rigorous fundamental research to understand cognitive control processes, and to then use this knowledge to tackle clinical and applied questions. I utilise behavioural measures together with computational modelling to address my research questions. 
+</p>
+
+---
+
+### Education
+<div class="topbr">
+
+<p class="custom-subtitle">`r fontawesome::fa("graduation-cap", fill = "#98A08D", a11y = "sem")` **PhD Cognitive Psychology, 2010**</p>  
+<p class="custom-subtitle2">Bangor University, UK</p>
+
+<p class="custom-subtitle">`r fontawesome::fa("graduation-cap", fill = "#98A08D", a11y = "sem")` **MSc Psychological Research, 2007**</p>  
+<p class="custom-subtitle2">Bangor University, UK</p>
+
+<p class="custom-subtitle">`r fontawesome::fa("graduation-cap", fill = "#98A08D", a11y = "sem")` **BSc Psychology, 2006**</p>  
+<p class="custom-subtitle2">Bangor University, UK</p>
+
+</div> 
 
 
 
-<div class="column-margin column-container">
-![](portrait.jpeg){.rounded}
-</div>
-:::
-
-
-::: {.grid}
-::: {.g-col-6}
-
-## <i class="fas fa-flask"></i> Research Interests
-* Cognitive control processes
-* Computational modelling
-* Cognition in clinical & applied settings
-* Reproducibility & open research
-:::
-  
-::: {.g-col-6}
-
-## <i class="fas fa-book"></i> Education
-
-* PhD in Cognitive Psychology (2010)
-* MSc in Psychological Research (2007)
-* BSc in Psychology (2006)
-
-:::
-  
-:::  
-
-
-
-
-
-{{< pagebreak >}}
-
-::: {.column-page-inset .text-center}
-```{=html}
-
-<a class="btn btn-outline-dark", href="https://scholar.google.com/citations?user=ylTSIMMAAAAJ&hl=en/"><i class="fas fa-graduation-cap"></i></a>
-
-<a class="btn btn-outline-dark", href="https://github.com/JimGrange"><i class="fab fa-github"></i></a>
-
-<a class="btn btn-outline-dark", href="https://twitter.com/JimGrange"><i class="fab fa-twitter"></i></a>
-
-<a class="btn btn-outline-dark", href="mailto:grange.jim@gmail.com"><i class="far fa-envelope"></i></a>
-
-```
-:::
 
 
 

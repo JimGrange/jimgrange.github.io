@@ -7,7 +7,7 @@ website:
   navbar:
     background: skyblue
     foreground: light
-    left:
+    right:
       - href: index.qmd
         text: Home
       - href: publications.qmd
@@ -26,7 +26,9 @@ website:
 
 format:
   html:
-    theme: cosmo
+    page-layout: full
+    theme: 
+      - green_theme.scss
     css: 
       - styles.css
       - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css
