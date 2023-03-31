@@ -2,7 +2,7 @@
 title: "Academic Publications"
 ---
 
------------------------------------------------------------------------
+------------------------------------------------------------------------
 
 **Copyright Notice:** The following documents have been posted on this website to facilitate the timely dissemination of scholarly work to individuals for personal research and study. By accessing any of the documents, you agree to adhere to the terms and constraints invoked by each author or copyright holder. You may not repost or reproduce any of the documents without the permission of the copyright holder. Please contact me to receive copies of any publications that are not available here as PDFs.
 
@@ -14,7 +14,7 @@ title: "Academic Publications"
 
 <i class="fas fa-file-alt"></i> **Grange, J.A.** (in press). Rumination and inhibition in task switching: no evidence for an association. *Cognition and Emotion*. <a href="https://doi.org/10.1080/02699931.2023.2176289" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a> --- <a href="https://psyarxiv.com" target="_blank"><button><i class="fas fa-graduation-cap"></i> PsyArXiv</button></a> --- <a href="https://example.com" target="_blank"><button><i class="fas fa-laptop"></i> Code</button></a> --- <a href="https://example.com" target="_blank"><button><i class="fas fa-chart-bar"></i> Data</button></a>
 
-**Grange, J.A.,** & Schuch, S. (in press). A spurious correlation between difference scores in evidence accumulation models. *Behavior Research Methods.* <a href="https://doi.org/10.3758/s13428-022-01956-8" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a> --- <a href="https://psyarxiv.com/u6py8/" target="_blank"><button><i class="fas fa-graduation-cap"></i> PsyArXiv</button></a> --- <a href="https://osf.io/2h4jt/" target="_blank"><button><i class="fas fa-laptop"></i> Code</button></a> --- <a href="https://osf.io/2h4jt/" target="_blank"><button><i class="fas fa-chart-bar"></i> Data</button></a>
+<i class="fas fa-file-alt"></i>**Grange, J.A.,** & Schuch, S. (in press). A spurious correlation between difference scores in evidence accumulation models. *Behavior Research Methods.* <a href="https://doi.org/10.3758/s13428-022-01956-8" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a> --- <a href="https://psyarxiv.com/u6py8/" target="_blank"><button><i class="fas fa-graduation-cap"></i> PsyArXiv</button></a> --- <a href="https://osf.io/2h4jt/" target="_blank"><button><i class="fas fa-laptop"></i> Code</button></a> --- <a href="https://osf.io/2h4jt/" target="_blank"><button><i class="fas fa-chart-bar"></i> Data</button></a>
 
 ## 2022
 

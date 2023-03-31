@@ -21,34 +21,46 @@ about:
 ---
 
 <!-- based on https://ddimmery.com/ -->
+
 <!-- and https://github.com/samanthacsik/samanthacsik.github.io -->
 
 ### About
+
 <p class="topbr">
+
 I am a [Reader](https://en.wikipedia.org/wiki/Reader_(academic_rank)) in Cognitive Psychology at [Keele University, UK](https://www.keele.ac.uk/psychology/) and Director of Research for the School of Psychology. I am also the University's Lead for Research Integrity and Improvement. I joined Keele in 2010 after completing my PhD at Bangor University under the supervision of [Dr George Houghton.](https://www.bangor.ac.uk/psychology/people/profiles/george_houghton.php.en)
 
-The mission of my lab's work is to conduct rigorous fundamental research to understand cognitive control processes, and to then use this knowledge to tackle clinical and applied questions. I utilise behavioural measures together with computational modelling to address my research questions. 
+The mission of my lab's work is to conduct rigorous fundamental research to understand cognitive control processes, and to then use this knowledge to tackle clinical and applied questions. I utilise behavioural measures together with computational modelling to address my research questions.
+
 </p>
 
----
+------------------------------------------------------------------------
 
 ### Education
-<div class="topbr">
 
-<p class="custom-subtitle">`r fontawesome::fa("graduation-cap", fill = "#98A08D", a11y = "sem")` **PhD Cognitive Psychology, 2010**</p>  
-<p class="custom-subtitle2">Bangor University, UK</p>
+::: topbr
+<p class="custom-subtitle">
+<i class="fas fa-graduation-cap"></i> **PhD Cognitive Psychology, 2010**
+</p>
 
-<p class="custom-subtitle">`r fontawesome::fa("graduation-cap", fill = "#98A08D", a11y = "sem")` **MSc Psychological Research, 2007**</p>  
-<p class="custom-subtitle2">Bangor University, UK</p>
+<p class="custom-subtitle2">
+Bangor University, UK
+</p>
 
-<p class="custom-subtitle">`r fontawesome::fa("graduation-cap", fill = "#98A08D", a11y = "sem")` **BSc Psychology, 2006**</p>  
-<p class="custom-subtitle2">Bangor University, UK</p>
+<p class="custom-subtitle">
+<i class="fas fa-graduation-cap"></i>  **MSc Psychological Research, 2007**
+</p>
 
-</div> 
-
-
-
-
-
+<p class="custom-subtitle2">
+Bangor University, UK
+</p>
 
 
+<p class="custom-subtitle">
+<i class="fas fa-graduation-cap"></i> **BSc Psychology, 2006**
+</p>
+
+<p class="custom-subtitle2">
+Bangor University, UK
+</p>
+:::
