@@ -12,12 +12,14 @@ $light-gray: #949799;
 $purple: #AE8BD1;
 $black: #000000;
 $burnt-orange: #ad7237;
+$r-studio: #f2f2f2;
+$lighter-sage-green:#D1D9CE80;
 
 // Base document colors
-$navbar-bg: $cream;
-$navbar-fg: $dark-sage-green; 
+$navbar-bg: $light-sage-green;
+$navbar-fg: gray; 
 $navbar-hl: $purple; 
-$body-bg: $light-sage-green;
+$body-bg: $cream;
 $body-color: $gray;
 $footer-bg: $cream; 
 $link-color: $purple;
@@ -27,7 +29,7 @@ $code-bg: $cream;
 $code-color: $burnt-orange; //$purple; 
 
 // Code blocks
-$code-block-bg: $cream;
+$code-block-bg: $lighter-sage-green;
 
 /*-- scss:rules --*/
 

@@ -14,20 +14,28 @@ website:
         text: Publications
       - href: posts.qmd
         text: Blog
-  # tools:
-  #     - icon: twitter
-  #       href: https://twitter.com
-  #     - icon: github
-  #       menu:
-  #         - text: Source Code
-  #           url:  https://github.com/JimGrange/jimgrange.github.io
-  #         - text: Report a Bug
-  #           url:  https://github.com/JimGrange/jimgrange.github.io/issues
-
+      - href: CV/Grange_cv.pdf
+        text: CV
+      - icon: github
+        href: https://github.com/JimGrange/JimGrange.github.io
+      - icon: twitter
+        href: https://twitter.com/JimGrange
+  page-footer: 
+    background: light
+    left: 
+      - "CC BY 4.0"
+    right: 
+      - icon: github
+        href: https://github.com/JimGrange
+      - icon: twitter
+        href: https://twitter.com/JimGrange
+  twitter-card: true
 format:
   html:
     page-layout: full
     theme: 
+      # light: flatly
+      # dark: darkly
       - green_theme.scss
     css: 
       - styles.css

@@ -17,17 +17,24 @@ draft: false # setting this to `true` will prevent your post from appearing on y
 
 
 Hello world! This is, of course, a test. Based on [this excellent blog post](https://samanthacsik.github.io/posts/2022-10-24-quarto-blogs/)
----
 
-```{r}
+Here is some example code:
+
+```{r, message = FALSE, warning = FALSE, fig.align = 'center'}
 library(tidyverse)
 
 set.seed(123)
 
 data <- tibble(
   outcome = rnorm(1000), 
-  predictor = rnorm(1000)
-) %>% 
+  predictor = rnorm(1000))
+data
+```
+
+And here's the resulting plot:
+
+```{r, message = FALSE, warning = FALSE}
+data %>% 
   ggplot(aes(x = outcome, y = predictor)) + 
   geom_point(alpha = 0.3, 
              colour = "skyblue") + 
@@ -35,5 +42,5 @@ data <- tibble(
   theme_bw() + 
   labs(x = "Outcome variable", 
        y = "Predictor variable")
-data
 ```
+

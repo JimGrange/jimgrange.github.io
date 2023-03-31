@@ -1,4 +1,3 @@
-
 ---
 title: "Jim Grange, PhD"
 image: images/portrait.jpeg
