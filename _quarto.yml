@@ -30,7 +30,9 @@ website:
       - icon: twitter
         href: https://twitter.com/JimGrange
   twitter-card: true
-  google-analytics: "G-13NEC42TVF"
+  google-analytics: 
+    tracking-id: "G-13NEC42TVF"
+    anonymize-ip: true
 format:
   html:
     page-layout: full
