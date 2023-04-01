@@ -1,6 +1,7 @@
 ---
 title: "30-DCC day 1"
 description: "Part-to-whole data visualisation"
+image: "feature.png"
 comments:
   giscus:
     repo: "JimGrange/jimgrange.github.io"
@@ -296,3 +297,24 @@ year_data %>%
        fill = NULL) + 
   facet_wrap(~month)
 ```
+
+
+```{r, eval = FALSE, echo = FALSE, include = FALSE}
+feature_plot <- year_data %>% 
+  filter(source != "total") %>% 
+  group_by(day, month, source) %>% 
+  summarise(mean_value = mean(value)) %>% 
+  ungroup() %>% 
+  ggplot(aes(x = day, y = mean_value)) + 
+  geom_col(aes(fill = source), 
+           position = position_stack(reverse = TRUE)) + 
+  coord_polar() +
+  labs(x = NULL, 
+       y ="Calories Consumed", 
+       fill = NULL) + 
+  facet_wrap(~month)
+
+ggsave("feature.png", feature_plot, width = 8, height = 8)
+
+```
+
