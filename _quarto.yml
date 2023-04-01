@@ -14,7 +14,7 @@ website:
         text: Publications
       - href: posts.qmd
         text: Blog
-      - href: CV/Grange_cv.pdf
+      - href: cv/Grange_cv.pdf
         text: CV
       - icon: github
         href: https://github.com/JimGrange/JimGrange.github.io

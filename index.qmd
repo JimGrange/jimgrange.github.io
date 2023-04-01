@@ -40,27 +40,38 @@ The mission of my lab's work is to conduct rigorous fundamental research to unde
 
 ::: topbr
 <p class="custom-subtitle">
+
 <i class="fas fa-graduation-cap"></i> **PhD Cognitive Psychology, 2010**
+
 </p>
 
 <p class="custom-subtitle2">
+
 Bangor University, UK
+
 </p>
 
 <p class="custom-subtitle">
-<i class="fas fa-graduation-cap"></i>  **MSc Psychological Research, 2007**
+
+<i class="fas fa-graduation-cap"></i> **MSc Psychological Research, 2007**
+
 </p>
 
 <p class="custom-subtitle2">
+
 Bangor University, UK
+
 </p>
 
-
 <p class="custom-subtitle">
+
 <i class="fas fa-graduation-cap"></i> **BSc Psychology, 2006**
+
 </p>
 
 <p class="custom-subtitle2">
+
 Bangor University, UK
+
 </p>
 :::
