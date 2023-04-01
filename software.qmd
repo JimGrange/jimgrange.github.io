@@ -4,9 +4,10 @@ title: "Software"
 
 (Page in progress!)
 
-mixtur - [![](http://cranlogs.r-pkg.org/badges/grand-total/mixtur)](https://cran.r-project.org/web/packages/mixtur/index.html)
+mixtur - <a href="https://cran.r-project.org/web/packages/mixtur/index.html"> <img src="https://cranlogs.r-pkg.org/badges/grand-total/mixtur" alt="mixtur"/> </a>
 
-trimr - [![](http://cranlogs.r-pkg.org/badges/grand-total/trimr)](https://cran.r-project.org/web/packages/trimr/index.html)
+trimr - <a href="https://cran.r-project.org/web/packages/trimr/index.html"> <img src="https://cranlogs.r-pkg.org/badges/grand-total/trimr" alt="trimr"/> </a>
 
-prepdat - [![](http://cranlogs.r-pkg.org/badges/grand-total/prepdat)](https://cran.r-project.org/web/packages/prepdat/index.html)
----
+prepdat - <a href="https://cran.r-project.org/web/packages/prepdat/index.html"> <img src="https://cranlogs.r-pkg.org/badges/grand-total/prepdat" alt="prepdat"/> </a>
+
+
