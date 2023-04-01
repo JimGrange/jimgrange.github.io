@@ -1,11 +1,10 @@
 ---
 title: "Hello World!"
 description: "First post testing the blogging functionality in Quarto!"
-website:
-  comments:
-    giscus:
-      repo: "JimGrange/jimgrange.github.io"
-      mapping: "title"
+comments:
+  giscus:
+    repo: "JimGrange/jimgrange.github.io"
+    mapping: "title"
 date: 03-30-2023
 categories: [Quarto, R] # self-defined categories
 # citation: 
