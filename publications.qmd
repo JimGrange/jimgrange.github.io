@@ -6,7 +6,7 @@ title: "Academic Publications"
 
 **Copyright Notice:** The following documents have been posted on this website to facilitate the timely dissemination of scholarly work to individuals for personal research and study. By accessing any of the documents, you agree to adhere to the terms and constraints invoked by each author or copyright holder. You may not repost or reproduce any of the documents without the permission of the copyright holder. Please contact me to receive copies of any publications that are not available here as PDFs.
 
-**Open Research:** Please bear with me whilst I migrate my website. In time, all publications (where relevant) will include links to open data, open code, and pre-prints. In the meantime, if you want the data and/or code for any publication not currently linked please drop me an email.
+**Open Research:** Please bear with me [whilst I migrate my website](https://www.jimgrange.org/). In time, all publications (where relevant) will include links to open data, open code, and pre-prints. In the meantime, if you want the data and/or code for any publication not currently linked please drop me an email.
 
 ------------------------------------------------------------------------
 
@@ -31,7 +31,6 @@ title: "Academic Publications"
 ## 2021
 
 <i class="fas fa-file-alt"></i> Stewart, A.J., Farran, E.K., **Grange, J.A.,** MacLeod, M., Munafo, M., Newton, P., & Shanks, D.R. (2021). Improving research quality: The view from institutional leads for research improvement in the UK Reproducibility Network. *BMC Research Notes, 14,* 458.
-
 
 ## 2020
 
@@ -59,14 +58,13 @@ title: "Academic Publications"
 
 <i class="fas fa-file-alt"></i> Lakens, D., Adolfi, C., ...**Grange, J.A.**..., & Zwaan, R. (2018). Justify your alpha. *Nature Human Behaviour, 2,* 168--171.
 
-<i class="fas fa-file-alt"></i> Martini, A., Ellis, S.J., **Grange, J.A.**, Tamburin, S., Dal Lago, D., Vianello, G., & Edelstyn, N.M.J. (2018). Risky decision-making and affective features of impulse control disorder in
-Parkinson’s disease. *Journal of Neural Transmission, 125*, 131--143.
+<i class="fas fa-file-alt"></i> Martini, A., Ellis, S.J., **Grange, J.A.**, Tamburin, S., Dal Lago, D., Vianello, G., & Edelstyn, N.M.J. (2018). Risky decision-making and affective features of impulse control disorder in Parkinson's disease. *Journal of Neural Transmission, 125*, 131--143.
 
 ## 2017
 
 <i class="fas fa-file-alt"></i> **Grange, J.A.,** Kowalczyk, A.W., & O'Loughlin, R. (2017). The effect of episodic retrieval on inhibition in task switching. *Journal of Experimental Psychology: Human Perception & Performance, 43,* 1568--1583.
 
-<i class="fas fa-file-alt"></i> Kowalczyk, A.W., & **Grange, J.A.** (2017). Inhibition in task switching: The reliability of the n–2 repetition cost. *Quarterly Journal of Experimental Psychology, 70,* 2419--2433.
+<i class="fas fa-file-alt"></i> Kowalczyk, A.W., & **Grange, J.A.** (2017). Inhibition in task switching: The reliability of the n--2 repetition cost. *Quarterly Journal of Experimental Psychology, 70,* 2419--2433.
 
 <i class="fas fa-file-alt"></i> Stephens, R., Holloway, K., **Grange, J.A.,** Jones, K., & Owen, L. (2017). Familial risk for alcohol use disorder and its effects on alcohol hangover. *Psychopharmacology, 234,* 1795--1802.
 
@@ -115,8 +113,8 @@ Parkinson’s disease. *Journal of Neural Transmission, 125*, 131--143.
 <i class="fas fa-file-alt"></i> **Grange, J.A.,** Juvina, I., & Houghton, G. (2013). On costs and benefits of n--2 repetitions in task switching: Towards a behavioral marker of cognitive inhibition. *Psychological Research, 77,* 211--222.
 
 ## 2012
-<i class="fas fa-file-alt"></i> Juvina, I., & **Grange, J.A.** (2012). From repetition suppression in Stroop to backward inhibition in task switching: An example of model reusability. In A. V. Samsonovich &
-K. R. Johannsdottir (Eds.). *Frontiers in Artificial Intelligence, Volume 233: Biologically Inspired Cognitive Architectures,* IOS Press (pp.168–173).
+
+<i class="fas fa-file-alt"></i> Juvina, I., & **Grange, J.A.** (2012). From repetition suppression in Stroop to backward inhibition in task switching: An example of model reusability. In A. V. Samsonovich & K. R. Johannsdottir (Eds.). *Frontiers in Artificial Intelligence, Volume 233: Biologically Inspired Cognitive Architectures,* IOS Press (pp.168--173).
 
 <i class="fas fa-file-alt"></i> **Open Science Collaboration** (2012). An open, large-scale, collaborative effort to estimate the reproducibility of psychological science. *Perspectives on Psychological Science, 7,* 657--670.
 
