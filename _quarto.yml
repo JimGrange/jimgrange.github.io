@@ -12,6 +12,8 @@ website:
         text: Home
       - href: publications.qmd
         text: Publications
+      - href: software.qmd
+        text: Software
       - href: posts.qmd
         text: Blog
       - href: cv/Grange_cv.pdf

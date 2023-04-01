@@ -1,0 +1,12 @@
+---
+title: "Software"
+---
+
+(Page in progress!)
+
+mixtur - [![](http://cranlogs.r-pkg.org/badges/grand-total/mixtur)](https://cran.r-project.org/web/packages/mixtur/index.html)
+
+trimr - [![](http://cranlogs.r-pkg.org/badges/grand-total/trimr)](https://cran.r-project.org/web/packages/trimr/index.html)
+
+prepdat - [![](http://cranlogs.r-pkg.org/badges/grand-total/prepdat)](https://cran.r-project.org/web/packages/prepdat/index.html)
+---
