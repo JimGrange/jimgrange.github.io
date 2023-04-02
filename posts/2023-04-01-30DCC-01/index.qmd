@@ -298,7 +298,6 @@ year_data %>%
   facet_wrap(~month)
 ```
 
-
 ```{r, eval = FALSE, echo = FALSE, include = FALSE}
 feature_plot <- year_data %>% 
   filter(source != "total") %>% 
@@ -317,4 +316,3 @@ feature_plot <- year_data %>%
 ggsave("feature.png", feature_plot, width = 8, height = 8)
 
 ```
-

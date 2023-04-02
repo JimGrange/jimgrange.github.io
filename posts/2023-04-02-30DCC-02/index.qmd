@@ -1,0 +1,143 @@
+---
+title: "30-DCC day 2"
+description: "Waffle plots"
+image: "feature.png"
+comments:
+  giscus:
+    repo: "JimGrange/jimgrange.github.io"
+    mapping: "title"
+date: 2023-04-02
+categories: [R, "30DCC"] # self-defined categories
+# citation: 
+#   url: https://jimgrange.github.io/posts/2023-03-30-hello-world/
+# image: preview_image.jpg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready
+---
+
+```{r, message = FALSE, warning = FALSE}
+library(tidyverse)
+```
+
+I blame Richard Mcelreath for introducing me to Waffle House. I've never met him and I've never been to Waffle House, but every time I hear "waffle" I think of [his brilliant lecture that featured waffle houses being potentially blamed for high divorce rates in the USA](https://www.youtube.com/watch?v=UpP-_mBvECI&list=PLDcUM9US4XdMROZ57-OIRtIK0aOynbgZN&index=6) (States with high divorce rate also have higher numbers of Waffle Houses. Of course, the link is not causal...)
+
+So when today's plotting theme was "waffle", I had to do something with Waffle Houses. A basic idea was to construct a waffle plot showing the frequency of Waffle House locations in the USA. I tried lots of places to get at the location data for Waffle Houses, and any attempt to find a database of locations I could download was met with a rather ridiculous fee (minimum of \$60!). In the end I found some fractional data from [this Huffington Post post](https://www.huffpost.com/entry/waffle-house-locations_b_5332044). So, we will go with this.
+
+![](02-waffle-locations.jpg)
+
+It only provdes the data from the top 21 locations, so this is what we will use. Let's get it into R:
+
+```{r}
+waffle_raw_data <- tibble(
+  location = c("Atlanta", "Cartesville", "Greenville", "Athens", "Fort Worth", 
+               "Nashville", "Griffin", "Commerce", "Mobile", "Louisville", 
+               "Dallas", "Macon", "Bay Minette", "Charlotte", "Aiken", "Jackson", 
+               "Raleigh", "Little Rock", "Gulfport", "Biloxi", "Pensacola"), 
+  number = c(132, 45, 34, 29, 25, 24, 23, 20, 20, 18, 18, 
+             18, 18, 17, 17, 17, 16, 16, 16, 16, 16)
+) %>% 
+  mutate(location = as_factor(location))
+waffle_raw_data
+```
+
+To do a waffle plot, we need a `tibble` where each location is repeated *n* times, where *n* comes from the number column. We can do this using the `uncount()` function in the `tidyr` package (comes installed with the `tidyverse`):
+
+```{r}
+waffle_data <- waffle_raw_data %>%
+  uncount(weights = number, .remove = FALSE) 
+waffle_data
+```
+
+Once we have this, we can use the `ggwaffle` package ([link here](https://github.com/liamgilbey/ggwaffle/)). It uses the wonderfully titled `waffle_iron()` function to get the data into the right shape for the waffle plot. Or, to put it in the words of the package help file:
+
+> Pour your data into a waffle iron to get ready to cook a waffle chart.
+
+Lovely stuff.
+
+```{r}
+# devtools::install_github("liamgilbey/ggwaffle")
+library(ggwaffle)
+
+waffle_plot_data <- waffle_data %>% 
+  waffle_iron(aes_d(group = location)) %>% 
+  as_tibble()
+waffle_plot_data
+```
+
+This has added the appropriate x- and y-coordinates for each "data point" that will serve as a hole in our waffle plot. We can now pass this data to `ggplot2` with a standard ggplot call establishing the x- and y-axes, but then adding a call to `geom_waffle()` from the `ggwaffle` package:
+
+```{r, eval = FALSE}
+waffle_plot_data %>% 
+  ggplot(aes(x = x, y = y, fill = group)) + 
+  geom_waffle()
+```
+
+![](02-plot1.png)
+
+A decent start, but the data points don't look great as they are stretched; ideally they should be symetrical. You can do this by adding `coord_equal()` to the ggplot calls.
+
+```{r, eval = FALSE}
+waffle_plot_data %>%
+  ggplot(aes(x = x, y = y, fill = group)) + 
+  geom_waffle() +
+  coord_equal()
+```
+
+![](02-plot2.png)
+
+OK, but now the plot is way too small. I spent **absolutely ages** trying to work out how to remove all of the white space from around the plot. One solution I was looking for was manually changing the number of rows and columns in the waffle plot. In the end---and don't ask me why it took me so long to check here---I found the [following issue in the GitHub repository for the `ggwaffle` package](https://github.com/liamgilbey/ggwaffle/issues/12), which suggested that I needed to look at the `waffle_iron()` function rather than the `geom_waffle()` call. As it turns out, I just add `rows = 20` to the `waffle_iron()` call and then pass this new data to the plotting functions
+
+```{r}
+waffle_raw_data %>%
+  uncount(weights = number, .remove = FALSE) %>% 
+  waffle_iron(aes_d(group = location), 
+              rows = 20) %>% 
+  ggplot(aes(x = x, y = y, fill = group)) + 
+  geom_waffle() +
+  coord_equal()
+```
+
+OK, finally we're getting somewhere! Let's tidy this up a bit by removing the x- and y-axes and their labels:
+
+```{r}
+waffle_raw_data %>%
+  uncount(weights = number, .remove = FALSE) %>% 
+  waffle_iron(aes_d(group = location), 
+              rows = 20) %>% 
+  ggplot(aes(x = x, y = y, fill = group)) + 
+  geom_waffle() +
+  coord_equal() + 
+  theme_void() + 
+  labs(fill = NULL) 
+```
+
+You can change the squares to circles on a waffle plot by using `geom_waflle(tile_shape = "circle")`, but need to change the colouring to `colour` rather than `fill` in the ggplot `aes()` call:
+
+```{r}
+waffle_raw_data %>%
+  uncount(weights = number, .remove = FALSE) %>% 
+  waffle_iron(aes_d(group = location), 
+              rows = 20) %>% 
+  ggplot(aes(x = x, y = y, colour = group)) + 
+  geom_waffle(tile_shape = "circle", size = 4) +
+  coord_equal() + 
+  theme_void() + 
+  labs(colour = NULL) 
+```
+
+Let's just add a title and we're probably done. Initial attempts showed the title was too small and left-aligned too extremely. So I had to invoke a series of `theme(plot.)` function calls to get it right
+
+```{r}
+waffle_raw_data %>%
+  uncount(weights = number, .remove = FALSE) %>% 
+  waffle_iron(aes_d(group = location), 
+              rows = 20) %>% 
+  ggplot(aes(x = x, y = y, colour = group)) + 
+  geom_waffle(tile_shape = "circle", size = 4) +
+  coord_equal() + 
+  theme_void() + 
+  labs(colour = NULL, 
+       title = "Top Waffle House Locations in the USA") +
+  theme(plot.title = element_text(hjust = 0.5, 
+                                  size = 16, 
+                                  face = "bold"))
+```
