@@ -6,9 +6,12 @@ title: "Academic Publications"
 
 **Copyright Notice:** The following documents have been posted on this website to facilitate the timely dissemination of scholarly work to individuals for personal research and study. By accessing any of the documents, you agree to adhere to the terms and constraints invoked by each author or copyright holder. You may not repost or reproduce any of the documents without the permission of the copyright holder. Please contact me to receive copies of any publications that are not available here as PDFs.
 
-**Open Research:** I provide links to (where relevant) the data and analysis/modelling code for the majority of my outputs. If you have any questions about the data and/or code please do contact me. 
+**Open Research:** I provide links to (where relevant) the data and analysis/modelling code for the majority of my outputs. If you have any questions about the data and/or code please do contact me.
 
 ------------------------------------------------------------------------
+
+## Under review
+<i class="fas fa-file-alt"></i> **Grange, J.A.** (under review). Control of stimulus-set and response-set in task switching.<a href="https://psyarxiv.com/y9zh2" target="_blank"><button><i class="fas fa-graduation-cap"></i> PsyArXiv</button></a> --- <a href="https://osf.io/ayutg/" target="_blank"><button><i class="fas fa-laptop"></i> Code</button></a> --- <a href="https://osf.io/ayutg/" target="_blank"><button><i class="fas fa-chart-bar"></i> Data</button></a>
 
 
 ## 2023 / In Press
@@ -17,8 +20,7 @@ title: "Academic Publications"
 
 <i class="fas fa-file-alt"></i> **Grange, J.A.,** De'Bell, H., Stafford, T., Partridge, A., Jacobs, N., Munafo, M., & the UK Reproducibility Network. (2023). *Open research training resources and priorities*. (Working Paper No. 01). UK Reproducibility Network. <a href="https://osf.io/s2f6k/" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a>
 
-<i class="fas fa-file-alt"></i> **Grange, J.A.** (2023). Rumination and inhibition in task switching: no evidence for an association. *Cognition and Emotion, 37*, 162--181. <a href="https://doi.org/10.1080/02699931.2023.2176289" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a> --- <a href="https://psyarxiv.com" target="_blank"><button><i class="fas fa-graduation-cap"></i> PsyArXiv</button></a> --- <a href="https://osf.io/fs964/" target="_blank"><button><i class="fas fa-laptop"></i> Code</button></a> --- <a href="https://osf.io/fs964/" target="_blank"><button><i class="fas fa-chart-bar"></i> Data</button></a>
-
+<i class="fas fa-file-alt"></i> **Grange, J.A.** (2023). Rumination and inhibition in task switching: no evidence for an association. *Cognition and Emotion, 37*, 162--181. <a href="https://doi.org/10.1080/02699931.2023.2176289" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a> --- <a href="https://psyarxiv.com/z3teh" target="_blank"><button><i class="fas fa-graduation-cap"></i> PsyArXiv</button></a> --- <a href="https://osf.io/fs964/" target="_blank"><button><i class="fas fa-laptop"></i> Code</button></a> --- <a href="https://osf.io/fs964/" target="_blank"><button><i class="fas fa-chart-bar"></i> Data</button></a>
 
 ## 2022
 
@@ -34,7 +36,7 @@ title: "Academic Publications"
 
 ## 2021
 
-<i class="fas fa-file-alt"></i> Stewart, A.J., Farran, E.K., **Grange, J.A.,** MacLeod, M., Munafo, M., Newton, P., & Shanks, D.R. (2021). Improving research quality: The view from institutional leads for research improvement in the UK Reproducibility Network. *BMC Research Notes, 14,* 458. <a href="https://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-021-05883-3" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a> 
+<i class="fas fa-file-alt"></i> Stewart, A.J., Farran, E.K., **Grange, J.A.,** MacLeod, M., Munafo, M., Newton, P., & Shanks, D.R. (2021). Improving research quality: The view from institutional leads for research improvement in the UK Reproducibility Network. *BMC Research Notes, 14,* 458. <a href="https://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-021-05883-3" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a>
 
 ## 2020
 
@@ -42,7 +44,7 @@ title: "Academic Publications"
 
 <i class="fas fa-file-alt"></i> Kowalczyk, A.W., & **Grange, J.A.** (2020). The effect of episodic retrieval on inhibition in task switching: A diffusion model analysis. *Psychological Research, 84,* 1965--1999. <a href="https://link.springer.com/article/10.1007/s00426-019-01206-1" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a> --- <a href="https://psyarxiv.com/9vpgk" target="_blank"><button><i class="fas fa-graduation-cap"></i> PsyArXiv</button></a> --- <a href="https://osf.io/ahbt3/" target="_blank"><button><i class="fas fa-laptop"></i> Code</button></a> --- <a href="https://osf.io/ahbt3/" target="_blank"><button><i class="fas fa-chart-bar"></i> Data</button></a>
 
-<i class="fas fa-file-alt"></i> Davenport, B., Jackson, M., **Grange, J.A.,** & Rydon-Grange, M. (2020). The role of schema functioning in beliefs about voices among voice-hearers. *Behavioural and Cognitive Psychotherapy, 48,* 584--597. <a href="https://www.cambridge.org/core/journals/behavioural-and-cognitive-psychotherapy/article/abs/beliefs-about-voices-in-voicehearers-the-role-of-schema-functioning/D871B4802FEFD6635B10BD13425F9254" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a> 
+<i class="fas fa-file-alt"></i> Davenport, B., Jackson, M., **Grange, J.A.,** & Rydon-Grange, M. (2020). The role of schema functioning in beliefs about voices among voice-hearers. *Behavioural and Cognitive Psychotherapy, 48,* 584--597. <a href="https://www.cambridge.org/core/journals/behavioural-and-cognitive-psychotherapy/article/abs/beliefs-about-voices-in-voicehearers-the-role-of-schema-functioning/D871B4802FEFD6635B10BD13425F9254" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a>
 
 ## 2019
 
@@ -70,8 +72,7 @@ title: "Academic Publications"
 
 <i class="fas fa-file-alt"></i> Kowalczyk, A.W., & **Grange, J.A.** (2017). Inhibition in task switching: The reliability of the n--2 repetition cost. *Quarterly Journal of Experimental Psychology, 70,* 2419--2433. <a href="https://www.tandfonline.com/doi/full/10.1080/17470218.2016.1239750" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a> --- <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2805021" target="_blank"><button><i class="fas fa-graduation-cap"></i> PsyArXiv</button></a> --- <a href="https://github.com/JimGrange/paperData/tree/master/N-2%20Repetition%20Cost%20Reliability" target="_blank"><button><i class="fas fa-laptop"></i> Code</button></a> --- <a href="https://github.com/JimGrange/paperData/tree/master/N-2%20Repetition%20Cost%20Reliability" target="_blank"><button><i class="fas fa-chart-bar"></i> Data</button></a>
 
-<i class="fas fa-file-alt"></i> Stephens, R., Holloway, K., **Grange, J.A.,** Jones, K., & Owen, L. (2017). Does familial risk for alcohol use disorder predict alcohol
-hangover? *Psychopharmacology, 234,* 1795--1802. <a href="https://link.springer.com/article/10.1007/s00213-017-4585-x" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a> 
+<i class="fas fa-file-alt"></i> Stephens, R., Holloway, K., **Grange, J.A.,** Jones, K., & Owen, L. (2017). Does familial risk for alcohol use disorder predict alcohol hangover? *Psychopharmacology, 234,* 1795--1802. <a href="https://link.springer.com/article/10.1007/s00213-017-4585-x" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a>
 
 ## 2016
 
@@ -83,38 +84,27 @@ hangover? *Psychopharmacology, 234,* 1795--1802. <a href="https://link.springer.
 
 <i class="fas fa-file-alt"></i> Anderson, C.J., Bahnik, S., ...**Grange, J.A.**..., & Zuni, K. (2016). Response to a comment on "Estimating the reproducibility of psychological science". *Science, 351,* 1037. <a href="https://www.science.org/doi/full/10.1126/science.aad9163" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a>
 
-<i class="fas fa-file-alt"></i> **Grange, J.A.,** Stephens, R., Jones, K., & Owen, L. (2016). The effect of alcohol hangover on choice response time. *Journal of Psychopharmacology, 30,* 654--661. 
-<a href="https://journals.sagepub.com/doi/pdf/10.1177/0269881116645299" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a> --- 
-<a href="https://github.com/JimGrange/paperData/tree/master/Hangover%20Response%20Times" target="_blank"><button><i class="fas fa-laptop"></i> Code</button></a> ---
-<a href="https://github.com/JimGrange/paperData/tree/master/Hangover%20Response%20Times" target="_blank"><button><i class="fas fa-chart-bar"></i> Data</button></a>
+<i class="fas fa-file-alt"></i> **Grange, J.A.,** Stephens, R., Jones, K., & Owen, L. (2016). The effect of alcohol hangover on choice response time. *Journal of Psychopharmacology, 30,* 654--661. <a href="https://journals.sagepub.com/doi/pdf/10.1177/0269881116645299" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a> --- <a href="https://github.com/JimGrange/paperData/tree/master/Hangover%20Response%20Times" target="_blank"><button><i class="fas fa-laptop"></i> Code</button></a> --- <a href="https://github.com/JimGrange/paperData/tree/master/Hangover%20Response%20Times" target="_blank"><button><i class="fas fa-chart-bar"></i> Data</button></a>
 
-<i class="fas fa-file-alt"></i> **Grange, J.A.** (2016). Time to stop insulting reviews. *The Psychologist, 29,* 158. <a href="https://www.bps.org.uk/psychologist/time-insulting-reviews-stop" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a> 
+<i class="fas fa-file-alt"></i> **Grange, J.A.** (2016). Time to stop insulting reviews. *The Psychologist, 29,* 158. <a href="https://www.bps.org.uk/psychologist/time-insulting-reviews-stop" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a>
 
 ## 2015
 
-<i class="fas fa-file-alt"></i> **Open Science Collaboration** (2015). Estimating the reproducibility of psychological science. *Science, 349,* 943. 
-<a href="https://www.science.org/doi/full/10.1126/science.aad9163" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a> --- 
-<a href="https://osf.io/ezcuj/" target="_blank"><button><i class="fas fa-laptop"></i> Code</button></a> --- 
-<a href="https://osf.io/ezcuj/" target="_blank"><button><i class="fas fa-chart-bar"></i> Data</button></a>
+<i class="fas fa-file-alt"></i> **Open Science Collaboration** (2015). Estimating the reproducibility of psychological science. *Science, 349,* 943. <a href="https://www.science.org/doi/full/10.1126/science.aad9163" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a> --- <a href="https://osf.io/ezcuj/" target="_blank"><button><i class="fas fa-laptop"></i> Code</button></a> --- <a href="https://osf.io/ezcuj/" target="_blank"><button><i class="fas fa-chart-bar"></i> Data</button></a>
 
-<i class="fas fa-file-alt"></i> Schuch, S., & **Grange, J.A.** (2015). The effect of n--3 on n--2 repetition costs in task switching. *Journal of Experimental Psychology: Learning, Memory, & Cognition, 41,* 760--767. 
-<a href="https://psycnet.apa.org/buy/2014-37467-001" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a> --- 
-<a href="https://eprints.keele.ac.uk/id/eprint/1665/1/Schuch%20&%20Grange%20(in%20press).pdf" target="_blank"><button><i class="fas fa-graduation-cap"></i> PsyArXiv</button></a>
+<i class="fas fa-file-alt"></i> Schuch, S., & **Grange, J.A.** (2015). The effect of n--3 on n--2 repetition costs in task switching. *Journal of Experimental Psychology: Learning, Memory, & Cognition, 41,* 760--767. <a href="https://psycnet.apa.org/buy/2014-37467-001" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a> --- <a href="https://eprints.keele.ac.uk/id/eprint/1665/1/Schuch%20&%20Grange%20(in%20press).pdf" target="_blank"><button><i class="fas fa-graduation-cap"></i> PsyArXiv</button></a>
 
-<i class="fas fa-file-alt"></i> **Grange, J.A.,** & Juvina, I. (2015). The effect of practice on n--2 repetition costs in set switching. *Acta Psychologica, 154,* 14--25. 
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S0001691814002340" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a>  
+<i class="fas fa-file-alt"></i> **Grange, J.A.,** & Juvina, I. (2015). The effect of practice on n--2 repetition costs in set switching. *Acta Psychologica, 154,* 14--25. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0001691814002340" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a>
 
-<i class="fas fa-file-alt"></i> **Grange, J.A.,** & Cross, E. (2015). Can time-based decay explain temporal distinctiveness effects in task switching? *Quarterly Journal of Experimental Psychology, 68,* 19--45. 
-<a href="https://journals.sagepub.com/doi/10.1080/17470218.2014.934696" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a> --- 
-<a href="https://core.ac.uk/reader/43762630" target="_blank"><button><i class="fas fa-graduation-cap"></i> PsyArXiv</button></a> 
+<i class="fas fa-file-alt"></i> **Grange, J.A.,** & Cross, E. (2015). Can time-based decay explain temporal distinctiveness effects in task switching? *Quarterly Journal of Experimental Psychology, 68,* 19--45. <a href="https://journals.sagepub.com/doi/10.1080/17470218.2014.934696" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a> --- <a href="https://core.ac.uk/reader/43762630" target="_blank"><button><i class="fas fa-graduation-cap"></i> PsyArXiv</button></a>
 
 ## 2014
 
-<i class="fas fa-file-alt"></i> **Grange, J.A.,** & Houghton, G. (Eds.) (2014). *Task Switching and Cognitive Control.* New York, NY: Oxford University Press. <a href="https://global.oup.com/academic/product/task-switching-and-cognitive-control-9780199921959?cc=gb&lang=en&#" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a> 
+<i class="fas fa-file-alt"></i> **Grange, J.A.,** & Houghton, G. (Eds.) (2014). *Task Switching and Cognitive Control.* New York, NY: Oxford University Press. <a href="https://global.oup.com/academic/product/task-switching-and-cognitive-control-9780199921959?cc=gb&lang=en&#" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a>
 
-<i class="fas fa-file-alt"></i> **Grange, J.A.,** & Houghton, G. (2014). Task switching and cognitive control: An introduction. In J.A. Grange & G. Houghton (Eds.), *Task Switching and Cognitive Control,* New York, NY: Oxford University Press. <a href="https://global.oup.com/academic/product/task-switching-and-cognitive-control-9780199921959?cc=gb&lang=en&#" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a> 
+<i class="fas fa-file-alt"></i> **Grange, J.A.,** & Houghton, G. (2014). Task switching and cognitive control: An introduction. In J.A. Grange & G. Houghton (Eds.), *Task Switching and Cognitive Control,* New York, NY: Oxford University Press. <a href="https://global.oup.com/academic/product/task-switching-and-cognitive-control-9780199921959?cc=gb&lang=en&#" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a>
 
-<i class="fas fa-file-alt"></i> **Grange, J.A.,** & Houghton, G. (2014). Models of cognitive control in task switching. In J.A. Grange & G. Houghton (Eds.), *Task Switching and Cognitive Control,* New York, NY: Oxford University Press. <a href="https://global.oup.com/academic/product/task-switching-and-cognitive-control-9780199921959?cc=gb&lang=en&#" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a> 
+<i class="fas fa-file-alt"></i> **Grange, J.A.,** & Houghton, G. (2014). Models of cognitive control in task switching. In J.A. Grange & G. Houghton (Eds.), *Task Switching and Cognitive Control,* New York, NY: Oxford University Press. <a href="https://global.oup.com/academic/product/task-switching-and-cognitive-control-9780199921959?cc=gb&lang=en&#" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a>
 
 <i class="fas fa-file-alt"></i> Stephens, R., **Grange, J.A.,** Jones, K., & Owen, L. (2014). A critical analysis of alcohol hangover research methodology for surveys or studies of effects on cognition. *Psychopharmacology, 231,* 2223--2236. <a href="https://link.springer.com/article/10.1007/s00213-014-3531-4" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a>
 
@@ -126,13 +116,13 @@ hangover? *Psychopharmacology, 234,* 1795--1802. <a href="https://link.springer.
 
 <i class="fas fa-file-alt"></i> **Open Science Collaboration** (2013). *The Reproducibility Project: A model of large-scale collaboration for empirical research on reproducibility.* In V. Stodden, F. Leisch, & R. Peng (Eds.), Implementing Reproducible Computational Research (A Volume in the R Series), New York, NY: Taylor & Francis. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2195999" target="_blank"><button><i class="fas fa-graduation-cap"></i> PsyArXiv</button></a>
 
-<i class="fas fa-file-alt"></i> **Grange, J.A.,** Juvina, I., & Houghton, G. (2013). On costs and benefits of n--2 repetitions in task switching: Towards a behavioral marker of cognitive inhibition. *Psychological Research, 77,* 211--222. <a href="https://link.springer.com/article/10.1007/s00426-012-0421-4" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a> 
+<i class="fas fa-file-alt"></i> **Grange, J.A.,** Juvina, I., & Houghton, G. (2013). On costs and benefits of n--2 repetitions in task switching: Towards a behavioral marker of cognitive inhibition. *Psychological Research, 77,* 211--222. <a href="https://link.springer.com/article/10.1007/s00426-012-0421-4" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a>
 
 ## 2012
 
 <i class="fas fa-file-alt"></i> Juvina, I., & **Grange, J.A.** (2012). From repetition suppression in Stroop to backward inhibition in task switching: An example of model reusability. In A. V. Samsonovich & K. R. Johannsdottir (Eds.). *Frontiers in Artificial Intelligence, Volume 233: Biologically Inspired Cognitive Architectures,* IOS Press (pp.168--173). <a href="https://ebooks.iospress.nl/publication/6618" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a>
 
-<i class="fas fa-file-alt"></i> **Open Science Collaboration** (2012). An open, large-scale, collaborative effort to estimate the reproducibility of psychological science. *Perspectives on Psychological Science, 7,* 657--670. <a href="https://journals.sagepub.com/doi/10.1177/1745691612462588" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a> 
+<i class="fas fa-file-alt"></i> **Open Science Collaboration** (2012). An open, large-scale, collaborative effort to estimate the reproducibility of psychological science. *Perspectives on Psychological Science, 7,* 657--670. <a href="https://journals.sagepub.com/doi/10.1177/1745691612462588" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a>
 
 <i class="fas fa-file-alt"></i> **Grange, J.A.,** Lody, A., & Bratt, S. (2012). Cost-benefit and distributional analyses of accessory stimuli. *Psychological Research, 76,* 626--633. <a href="https://link.springer.com/article/10.1007/s00426-011-0372-1" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a>
 
@@ -140,23 +130,18 @@ hangover? *Psychopharmacology, 234,* 1795--1802. <a href="https://link.springer.
 
 <i class="fas fa-file-alt"></i> Houghton, G., & **Grange, J.A.** (2011). CDF-XL: Computing cumulative distribution frequencies of reaction time data in Excel. *Behavior Research Methods, 43,* 1023--1032. <a href="https://link.springer.com/article/10.3758/s13428-011-0119-3" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a>
 
-<i class="fas fa-file-alt"></i> **Grange, J.A.,** & Houghton, G (2011). Task preparation and task inhibition: A comment on Koch, Gade, Schuch, & Philip (2010). *Psychonomic Bulletin & Review, 18*, 211--216.
-<a href="https://link.springer.com/article/10.3758/s13423-010-0023-3" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a> 
+<i class="fas fa-file-alt"></i> **Grange, J.A.,** & Houghton, G (2011). Task preparation and task inhibition: A comment on Koch, Gade, Schuch, & Philip (2010). *Psychonomic Bulletin & Review, 18*, 211--216. <a href="https://link.springer.com/article/10.3758/s13423-010-0023-3" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a>
 
 <i class="fas fa-file-alt"></i> **Grange, J.A.** (2011). *Control of working memory contents during task switching.* In E.S.Levin (Ed.), Working Memory: Capacity, Development, & Improvement Techniques. New York, NY: Nova Science Publishers.
 
 ## 2010
 
-<i class="fas fa-file-alt"></i> **Grange, J.A.,** & Houghton, G (2010). Heightened conflict in cue--target translation increases backward inhibition in set switching. *Journal of Experimental Psychology: Learning, Memory, & Cognition, 36,* 1003--1009.
-<a href="https://psycnet.apa.org/doiLanding?doi=10.1037%2Fa0019129" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a> 
+<i class="fas fa-file-alt"></i> **Grange, J.A.,** & Houghton, G (2010). Heightened conflict in cue--target translation increases backward inhibition in set switching. *Journal of Experimental Psychology: Learning, Memory, & Cognition, 36,* 1003--1009. <a href="https://psycnet.apa.org/doiLanding?doi=10.1037%2Fa0019129" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a>
 
-<i class="fas fa-file-alt"></i> **Grange, J.A.,** & Houghton, G (2010). Cue-switch costs in task-switching: Cue priming or control processes?. *Psychological Research, 74,* 481--490.
-<a href="https://link.springer.com/article/10.1007/s00426-009-0270-y" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a> 
+<i class="fas fa-file-alt"></i> **Grange, J.A.,** & Houghton, G (2010). Cue-switch costs in task-switching: Cue priming or control processes?. *Psychological Research, 74,* 481--490. <a href="https://link.springer.com/article/10.1007/s00426-009-0270-y" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a>
 
 ## 2009
 
-<i class="fas fa-file-alt"></i> **Grange, J.A.,** & Houghton, G (2009). Temporal cue--target overlap is not essential for backward inhibition in task switching. *Quarterly Journal of Experimental Psychology, 62,* 2069--2080.
-<a href="https://journals.sagepub.com/doi/10.1080/17470210802696096" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a> 
+<i class="fas fa-file-alt"></i> **Grange, J.A.,** & Houghton, G (2009). Temporal cue--target overlap is not essential for backward inhibition in task switching. *Quarterly Journal of Experimental Psychology, 62,* 2069--2080. <a href="https://journals.sagepub.com/doi/10.1080/17470210802696096" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a>
 
-<i class="fas fa-file-alt"></i> Houghton, G., Pritchard, R., & **Grange, J.A.** (2009). The role of cue-target translation in backward inhibition of attentional set. *Journal of Experimental Psychology: Learning, Memory, & Cognition, 35,* 466--476.
-<a href="https://psycnet.apa.org/doiLanding?doi=10.1037%2Fa0014648" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a> 
+<i class="fas fa-file-alt"></i> Houghton, G., Pritchard, R., & **Grange, J.A.** (2009). The role of cue-target translation in backward inhibition of attentional set. *Journal of Experimental Psychology: Learning, Memory, & Cognition, 35,* 466--476. <a href="https://psycnet.apa.org/doiLanding?doi=10.1037%2Fa0014648" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a>
