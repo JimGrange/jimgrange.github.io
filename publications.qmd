@@ -11,8 +11,11 @@ title: "Academic Publications"
 ------------------------------------------------------------------------
 
 ## Under review
-<i class="fas fa-file-alt"></i> **Grange, J.A.** (under review). Control of stimulus-set and response-set in task switching.<a href="https://psyarxiv.com/y9zh2" target="_blank"><button><i class="fas fa-graduation-cap"></i> PsyArXiv</button></a> --- <a href="https://osf.io/ayutg/" target="_blank"><button><i class="fas fa-laptop"></i> Code</button></a> --- <a href="https://osf.io/ayutg/" target="_blank"><button><i class="fas fa-chart-bar"></i> Data</button></a>
 
+
+<i class="fas fa-file-alt"></i> Poole, D., **Grange, J.A.,** & Milne, E. (under review). Putting the spotlight back onto the flanker task in autism: Autistic adults show increased interference from foils compared with non-autistic adults. <a href="https://psyarxiv.com/y9v2h/" target="_blank"><button><i class="fas fa-graduation-cap"></i> PsyArXiv</button></a> --- <a href="https://osf.io/w6fjm/" target="_blank"><button><i class="fas fa-laptop"></i> Code</button></a> --- <a href="https://osf.io/w6fjm/" target="_blank"><button><i class="fas fa-chart-bar"></i> Data</button></a>
+
+<i class="fas fa-file-alt"></i> **Grange, J.A.** (under review). Control of stimulus-set and response-set in task switching.<a href="https://psyarxiv.com/y9zh2" target="_blank"><button><i class="fas fa-graduation-cap"></i> PsyArXiv</button></a> --- <a href="https://osf.io/ayutg/" target="_blank"><button><i class="fas fa-laptop"></i> Code</button></a> --- <a href="https://osf.io/ayutg/" target="_blank"><button><i class="fas fa-chart-bar"></i> Data</button></a>
 
 ## 2023 / In Press
 
