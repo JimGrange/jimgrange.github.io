@@ -12,6 +12,7 @@ title: "Academic Publications"
 
 ## Under review
 
+<i class="fas fa-file-alt"></i> Rabi, R., Chow, J., **Grange, J.A.,** Hasher, L., Alain, C., & Anderson, N.D. (under review). Computational modelling of selective attention differentiates different subtypes of amnesic mild cognitive impairment. 
 
 <i class="fas fa-file-alt"></i> Poole, D., **Grange, J.A.,** & Milne, E. (under review). Putting the spotlight back onto the flanker task in autism: Autistic adults show increased interference from foils compared with non-autistic adults. <a href="https://psyarxiv.com/y9v2h/" target="_blank"><button><i class="fas fa-graduation-cap"></i> PsyArXiv</button></a> --- <a href="https://osf.io/w6fjm/" target="_blank"><button><i class="fas fa-laptop"></i> Code</button></a> --- <a href="https://osf.io/w6fjm/" target="_blank"><button><i class="fas fa-chart-bar"></i> Data</button></a>
 
