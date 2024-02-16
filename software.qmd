@@ -3,11 +3,9 @@ title: "Software"
 ---
 
 (Page in progress!)
-
+TEST
 mixtur - <a href="https://cran.r-project.org/web/packages/mixtur/index.html"> <img src="https://cranlogs.r-pkg.org/badges/grand-total/mixtur" alt="mixtur"/> </a>
 
 trimr - <a href="https://cran.r-project.org/web/packages/trimr/index.html"> <img src="https://cranlogs.r-pkg.org/badges/grand-total/trimr" alt="trimr"/> </a>
 
 prepdat - <a href="https://cran.r-project.org/web/packages/prepdat/index.html"> <img src="https://cranlogs.r-pkg.org/badges/grand-total/prepdat" alt="prepdat"/> </a>
-
-
