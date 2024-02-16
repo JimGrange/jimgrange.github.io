@@ -134,11 +134,19 @@ gtag('config', 'G-13NEC42TVF', { 'anonymize_ip': true});
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#mixtur-modelling-continuous-report-visual-short-term-memory-studies" id="toc-mixtur-modelling-continuous-report-visual-short-term-memory-studies" class="nav-link active" data-scroll-target="#mixtur-modelling-continuous-report-visual-short-term-memory-studies">mixtur: Modelling Continuous Report Visual Short-Term Memory Studies</a></li>
+  <li><a href="#trimr-preparing-experimental-data-for-statistical-analysis" id="toc-trimr-preparing-experimental-data-for-statistical-analysis" class="nav-link" data-scroll-target="#trimr-preparing-experimental-data-for-statistical-analysis">trimr: Preparing Experimental Data for Statistical Analysis</a></li>
+  <li><a href="#prepdat-preparing-experimental-data-for-statistical-analysis" id="toc-prepdat-preparing-experimental-data-for-statistical-analysis" class="nav-link" data-scroll-target="#prepdat-preparing-experimental-data-for-statistical-analysis">prepdat: Preparing Experimental Data for Statistical Analysis</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -157,11 +165,24 @@ gtag('config', 'G-13NEC42TVF', { 'anonymize_ip': true});
 
 </header>
 
-<p>(Page in progress!) TEST mixtur - <a href="https://cran.r-project.org/web/packages/mixtur/index.html"> <img src="https://cranlogs.r-pkg.org/badges/grand-total/mixtur" alt="mixtur"> </a></p>
-<p>trimr - <a href="https://cran.r-project.org/web/packages/trimr/index.html"> <img src="https://cranlogs.r-pkg.org/badges/grand-total/trimr" alt="trimr"> </a></p>
-<p>prepdat - <a href="https://cran.r-project.org/web/packages/prepdat/index.html"> <img src="https://cranlogs.r-pkg.org/badges/grand-total/prepdat" alt="prepdat"> </a></p>
+<hr>
+<section id="mixtur-modelling-continuous-report-visual-short-term-memory-studies" class="level2">
+<h2 class="anchored" data-anchor-id="mixtur-modelling-continuous-report-visual-short-term-memory-studies">mixtur: Modelling Continuous Report Visual Short-Term Memory Studies</h2>
+<p><a href="https://cran.r-project.org/web/packages/mixtur/index.html"> <img src="https://cranlogs.r-pkg.org/badges/grand-total/mixtur" alt="mixtur"> </a></p>
+<p>A set of utility functions for analysing and modelling data from continuous report short-term memory experiments using either the 2-component mixture model of <a href="https://doi.org/10.1038/nature06860">Zhang and Luck (2008)</a> or the 3-component mixture model of <a href="https://doi.org/10.1167/9.10.7%3E">Bays et al.&nbsp;(2009)</a>. Users are also able to simulate from these models.</p>
+</section>
+<section id="trimr-preparing-experimental-data-for-statistical-analysis" class="level2">
+<h2 class="anchored" data-anchor-id="trimr-preparing-experimental-data-for-statistical-analysis">trimr: Preparing Experimental Data for Statistical Analysis</h2>
+<p><a href="https://cran.r-project.org/web/packages/trimr/index.html"> <img src="https://cranlogs.r-pkg.org/badges/grand-total/trimr" alt="trimr"> </a></p>
+<p>Provides various commonly-used response time trimming methods, including the recursive / moving-criterion methods reported by Van Selst and Jolicoeur (1994). By passing trimming functions raw data files, the package will return trimmed data ready for inferential testing.</p>
+</section>
+<section id="prepdat-preparing-experimental-data-for-statistical-analysis" class="level2">
+<h2 class="anchored" data-anchor-id="prepdat-preparing-experimental-data-for-statistical-analysis">prepdat: Preparing Experimental Data for Statistical Analysis</h2>
+<p><a href="https://cran.r-project.org/web/packages/prepdat/index.html"> <img src="https://cranlogs.r-pkg.org/badges/grand-total/prepdat" alt="prepdat"> </a></p>
+<p>Prepares data for statistical analysis (e.g., analysis of variance ;ANOVA) by enabling the user to easily and quickly merge (using the file_merge() function) raw data files into one merged table and then aggregate the merged table (using the prep() function) into a finalized table while keeping track and summarizing every step of the preparation. The finalized table contains several possibilities for dependent measures of the dependent variable. Most suitable when measuring variables in an interval or ratio scale (e.g., reaction-times) and/or discrete values such as accuracy. Main functions included are file_merge() and prep(). The file_merge() function vertically merges individual data files (in a long format) in which each line is a single observation to one single dataset. The prep() function aggregates the single dataset according to any combination of grouping variables (i.e., between-subjects and within-subjects independent variables, respectively), and returns a data frame with a number of dependent measures for further analysis for each cell according to the combination of provided grouping variables. Dependent measures for each cell include among others means before and after rejecting all values according to a flexible standard deviation criteria, number of rejected values according to the flexible standard deviation criteria, proportions of rejected values according to the flexible standard deviation criteria, number of values before rejection, means after rejecting values according to procedures described in Van Selst &amp; Jolicoeur (1994; suitable when measuring reaction-times), standard deviations, medians, means according to any percentile (e.g., 0.05, 0.25, 0.75, 0.95) and harmonic means. The data frame prep() returns can also be exported as a txt file to be used for statistical analysis in other statistical programs.</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
