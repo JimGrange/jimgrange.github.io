@@ -12,15 +12,17 @@ title: "Academic Publications"
 
 ## Under review
 
+<i class="fas fa-file-alt"></i> Rydon-Grange, M. & **Grange, J.A.** (under review). Schema functioning across the psychosis continuum: A systematic review. 
+
+<i class="fas fa-file-alt"></i> Bognar, M., van Ravenzwaaij, D., Varga, M.A., Kekecs, Z., **Grange, J.A.,** Gyurkovics, M., & Aczel, B. (under review). Exploratory multiverse simulation approach to assess the impact of arbitrary decisions in reaction time studies. 
+
 <i class="fas fa-file-alt"></i> **Grange, J.A.** (under review). Control of stimulus-set and response-set in task switching.<a href="https://psyarxiv.com/y9zh2" target="_blank"><button><i class="fas fa-graduation-cap"></i> PsyArXiv</button></a> --- <a href="https://osf.io/ayutg/" target="_blank"><button><i class="fas fa-laptop"></i> Code</button></a> --- <a href="https://osf.io/ayutg/" target="_blank"><button><i class="fas fa-chart-bar"></i> Data</button></a>
 
 <i class="fas fa-file-alt"></i> **Grange, J.A.** (under review). Depression symptomatology and perceptual categorisation: A computational modelling appraoch. *Stage 1 Registered Report.*
 
-<i class="fas fa-file-alt"></i> Martini, A., Edelstyn, N., Weis, L., Tamburin, S., Schifano, R., Books, J., Antovani, E., **Grange, J.A.,** Lauriola, F., Pistonesi, F., Leoni, G., Antonini, A., & Biundo, R.  (under review). Sensitivity to negative-feedback processing in people with Parkinson’s disease and impulsive-compulsive behaviours.
+<i class="fas fa-file-alt"></i> Martini, A., Edelstyn, N., Weis, L., Tamburin, S., Schifano, R., Books, J., Antovani, E., **Grange, J.A.,** Lauriola, F., Pistonesi, F., Leoni, G., Antonini, A., & Biundo, R. (under review). Sensitivity to negative-feedback processing in people with Parkinson’s disease and impulsive-compulsive behaviours.
 
 <i class="fas fa-file-alt"></i> Rabi, R., Chow, J., **Grange, J.A.,** Hasher, L., Alain, C., & Anderson, N.D. (under review). Computational modelling of selective attention differentiates different subtypes of amnesic mild cognitive impairment.
-
-
 
 ## 2024 / in press
 
