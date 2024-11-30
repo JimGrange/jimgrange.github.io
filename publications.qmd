@@ -12,11 +12,9 @@ title: "Academic Publications"
 
 ## Under review
 
-<i class="fas fa-file-alt"></i> Rydon-Grange, M. & **Grange, J.A.** (under review). Schema functioning across the psychosis continuum: A systematic review. 
+<i class="fas fa-file-alt"></i> Rydon-Grange, M. & **Grange, J.A.** (under review). Schema functioning across the psychosis continuum: A systematic review.
 
-<i class="fas fa-file-alt"></i> Bognar, M., van Ravenzwaaij, D., Varga, M.A., Kekecs, Z., **Grange, J.A.,** Gyurkovics, M., & Aczel, B. (under review). Exploratory multiverse simulation approach to assess the impact of arbitrary decisions in reaction time studies. 
-
-<i class="fas fa-file-alt"></i> **Grange, J.A.** (under review). Control of stimulus-set and response-set in task switching.<a href="https://psyarxiv.com/y9zh2" target="_blank"><button><i class="fas fa-graduation-cap"></i> PsyArXiv</button></a> --- <a href="https://osf.io/ayutg/" target="_blank"><button><i class="fas fa-laptop"></i> Code</button></a> --- <a href="https://osf.io/ayutg/" target="_blank"><button><i class="fas fa-chart-bar"></i> Data</button></a>
+<i class="fas fa-file-alt"></i> Bognar, M., van Ravenzwaaij, D., Varga, M.A., Kekecs, Z., **Grange, J.A.,** Gyurkovics, M., & Aczel, B. (under review). Exploratory multiverse simulation approach to assess the impact of arbitrary decisions in reaction time studies.
 
 <i class="fas fa-file-alt"></i> **Grange, J.A.** (under review). Depression symptomatology and perceptual categorisation: A computational modelling appraoch. *Stage 1 Registered Report.*
 
@@ -24,9 +22,11 @@ title: "Academic Publications"
 
 <i class="fas fa-file-alt"></i> Rabi, R., Chow, J., **Grange, J.A.,** Hasher, L., Alain, C., & Anderson, N.D. (under review). Computational modelling of selective attention differentiates different subtypes of amnesic mild cognitive impairment.
 
+<i class="fas fa-file-alt"></i> Poole, D., **Grange, J.A.,** & Milne, E. (in principal acceptance). Can location cues facilitate the suppression of non-target stimuli during selective attention? *Accepted Stage-1 Registered Report*.
+
 ## 2024 / in press
 
-<i class="fas fa-file-alt"></i> Poole, D., **Grange, J.A.,** & Milne, E. (in principal acceptance). Can location cues facilitate the suppression of non-target stimuli during selective attention? *Accepted Stage-1 Registered Report*.
+<i class="fas fa-file-alt"></i> **Grange, J.A.** (in press). Control of stimulus-set and response-set in task switching. \*Journal of Experimental Psychology: Learning, Memory, & Cognition. <a href="https://psyarxiv.com/y9zh2" target="_blank"><button><i class="fas fa-graduation-cap"></i> PsyArXiv</button></a> --- <a href="https://osf.io/ayutg/" target="_blank"><button><i class="fas fa-laptop"></i> Code</button></a> --- <a href="https://osf.io/ayutg/" target="_blank"><button><i class="fas fa-chart-bar"></i> Data</button></a>
 
 <i class="fas fa-file-alt"></i> Poole, D., **Grange, J.A.,** & Milne, E. (2024). Putting the spotlight back onto the flanker task in autism: Autistic adults show increased interference from foils compared with non-autistic adults. *Journal of Cognition, 7(1):46,* 1--15*.* <a href="https://journalofcognition.org/articles/10.5334/joc.369" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a> --- <a href="https://psyarxiv.com/y9v2h/" target="_blank"><button><i class="fas fa-graduation-cap"></i> PsyArXiv</button></a> --- <a href="https://osf.io/w6fjm/" target="_blank"><button><i class="fas fa-laptop"></i> Code</button></a> --- <a href="https://osf.io/w6fjm/" target="_blank"><button><i class="fas fa-chart-bar"></i> Data</button></a>
 
