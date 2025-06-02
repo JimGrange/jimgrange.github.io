@@ -18,13 +18,13 @@ title: "Academic Publications"
 
 <i class="fas fa-file-alt"></i> **Grange, J.A.** (under review). Depression symptomatology and perceptual categorisation: A computational modelling appraoch. *Stage 1 Registered Report.*
 
-<i class="fas fa-file-alt"></i> Martini, A., Edelstyn, N., Weis, L., Tamburin, S., Schifano, R., Books, J., Antovani, E., **Grange, J.A.,** Lauriola, F., Pistonesi, F., Leoni, G., Antonini, A., & Biundo, R. (under review). Sensitivity to negative-feedback processing in people with Parkinson’s disease and impulsive-compulsive behaviours.
-
 <i class="fas fa-file-alt"></i> Poole, D., **Grange, J.A.,** & Milne, E. (in principal acceptance). Can location cues facilitate the suppression of non-target stimuli during selective attention? *Accepted Stage-1 Registered Report*.
 
 ## 2025 / in press
 
-<i class="fas fa-file-alt"></i> **Grange, J.A.** (in press). Control of stimulus-set and response-set in task switching. *Journal of Experimental Psychology: Learning, Memory, & Cognition.* <a href="https://psycnet.apa.org/doiLanding?doi=10.1037%2Fxlm0001459" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a> --- <a href="https://psyarxiv.com/y9zh2" target="_blank"><button><i class="fas fa-graduation-cap"></i> PsyArXiv</button></a> --- <a href="https://osf.io/ayutg/" target="_blank"><button><i class="fas fa-laptop"></i> Code</button></a> --- <a href="https://osf.io/ayutg/" target="_blank"><button><i class="fas fa-chart-bar"></i> Data</button></a>
+<i class="fas fa-file-alt"></i> Martini, A., Edelstyn, N., Weis, L., Tamburin, S., Schifano, R., Books, J., Antovani, E., **Grange, J.A.,** Lauriola, F., Pistonesi, F., Leoni, G., Antonini, A., & Biundo, R. (in press). Sensitivity to negative-feedback processing in people with Parkinson’s disease and impulsive-compulsive behaviours. *Journal of Neural Transmission.*
+
+<i class="fas fa-file-alt"></i> **Grange, J.A.** (in press). Control of stimulus set and response set in task switching. *Journal of Experimental Psychology: Learning, Memory, & Cognition.* <a href="https://psycnet.apa.org/doiLanding?doi=10.1037%2Fxlm0001459" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a> --- <a href="https://psyarxiv.com/y9zh2" target="_blank"><button><i class="fas fa-graduation-cap"></i> PsyArXiv</button></a> --- <a href="https://osf.io/ayutg/" target="_blank"><button><i class="fas fa-laptop"></i> Code</button></a> --- <a href="https://osf.io/ayutg/" target="_blank"><button><i class="fas fa-chart-bar"></i> Data</button></a>
 
 <i class="fas fa-file-alt"></i> Rabi, R., Chow, J., **Grange, J.A.,** Hasher, L., Alain, C., & Anderson, N.D. (in press). Computational modelling of selective attention differentiates different subtypes of amnesic mild cognitive impairment. *Aging, Neuropsychology, and Cognition.* <a href="https://www.tandfonline.com/doi/full/10.1080/13825585.2024.2442786" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a>
 
