@@ -14,13 +14,14 @@ title: "Academic Publications"
 
 <i class="fas fa-file-alt"></i> Rydon-Grange, M. & **Grange, J.A.** (under review). Schema functioning across the psychosis continuum: A systematic review.
 
-<i class="fas fa-file-alt"></i> Bognar, M., van Ravenzwaaij, D., Varga, M.A., Kekecs, Z., **Grange, J.A.,** Gyurkovics, M., & Aczel, B. (under review). Exploratory multiverse simulation approach to assess the impact of arbitrary decisions in reaction time studies.
+<i class="fas fa-file-alt"></i> Bognar, M., van Ravenzwaaij, D., Varga, M.A., Kekecs, Z., **Grange, J.A.,** Gyurkovics, M., & Aczel, B. (under review). Multiverse simulation to explore the impact of analytical choices on Type I and Type II errors in a reaction time study.
 
 <i class="fas fa-file-alt"></i> **Grange, J.A.** (under review). Depression symptomatology and perceptual categorisation: A computational modelling appraoch. *Stage 1 Registered Report.*
 
-<i class="fas fa-file-alt"></i> Poole, D., **Grange, J.A.,** & Milne, E. (in principal acceptance). Can location cues facilitate the suppression of non-target stimuli during selective attention? *Accepted Stage-1 Registered Report*.
 
 ## 2025 / in press
+
+<i class="fas fa-file-alt"></i> Poole, D., **Grange, J.A.,** & Milne, E. (in press). Registered Report: Can location cues facilitate the suppression of non-target stimuli during selective attention? *Quarterly Journal of Experimental Psychology*. --- <a href="https://osf.io/zqfm3/" target="_blank"><button><i class="fas fa-chart-bar"></i> Data</button></a>
 
 <i class="fas fa-file-alt"></i> Martini, A., Edelstyn, N., Weis, L., Tamburin, S., Schifano, R., Books, J., Antovani, E., **Grange, J.A.,** Lauriola, F., Pistonesi, F., Leoni, G., Antonini, A., & Biundo, R. (in press). Sensitivity to negative-feedback processing in people with Parkinson’s disease and impulsive-compulsive behaviours. *Journal of Neural Transmission.*
 
