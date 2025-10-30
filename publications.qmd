@@ -15,14 +15,14 @@ title: "Academic Publications"
 <i class="fas fa-file-alt"></i> **Grange, J.A.** & Kowalczyk, A. (under review). Age differences in inhibition and episodic retrieval in task switching: A drift diffusion model analysis of n--2 repetition costs. <a href="https://osf.io/preprints/psyarxiv/ha7cp_v2" target="_blank"><button><i class="fas fa-graduation-cap"></i> PsyArXiv</button></a> --- <a href="https://osf.io/3scq8/" target="_blank"><button><i class="fas fa-laptop"></i> Code</button></a> --- <a href="https://osf.io/3scq8/" target="_blank"><button><i class="fas fa-chart-bar"></i> Data</button></a>
 
 
-<i class="fas fa-file-alt"></i> Moore, S.B. & **Grange, J.A.** (under review). The impact of dimension switching on visual short-term memory. <a href="https://osf.io/preprints/psyarxiv/7rnz2_v2" target="_blank"><button><i class="fas fa-graduation-cap"></i> PsyArXiv</button></a> --- <a href="https://osf.io/5qapv/" target="_blank"><button><i class="fas fa-laptop"></i> Code</button></a> --- <a href="https://osf.io/5qapv/" target="_blank"><button><i class="fas fa-chart-bar"></i> Data</button></a>
-
 <i class="fas fa-file-alt"></i> Rydon-Grange, M. & **Grange, J.A.** (under review). Schema functioning across the psychosis continuum: A systematic review.
 
 <i class="fas fa-file-alt"></i> Benini, E., Möller, M., Koch, I., Qiu, R., Mayr, S., Philipp, A.M., **Grange, J.A.,** & Moretti, L. (under review). Response selection can feed back on task selection through episodic retrieval.
 
 
 ## In Press
+
+<i class="fas fa-file-alt"></i> Moore, S.B. & **Grange, J.A.** (in press). The impact of dimension switching on visual short-term memory. *Quarterly Journal of Experimental Psychology.* <a href="https://osf.io/preprints/psyarxiv/7rnz2_v2" target="_blank"><button><i class="fas fa-graduation-cap"></i> PsyArXiv</button></a> --- <a href="https://osf.io/5qapv/" target="_blank"><button><i class="fas fa-laptop"></i> Code</button></a> --- <a href="https://osf.io/5qapv/" target="_blank"><button><i class="fas fa-chart-bar"></i> Data</button></a>
 
 <i class="fas fa-file-alt"></i> Poole, D., **Grange, J.A.,** & Milne, E. (in press). Registered Report: Can location cues facilitate the suppression of non-target stimuli during selective attention? *Quarterly Journal of Experimental Psychology*. <a href="https://osf.io/zqfm3/" target="_blank"><button><i class="fas fa-chart-bar"></i> Data</button></a>
 
@@ -36,6 +36,8 @@ title: "Academic Publications"
 ## 2025
 <i class="fas fa-file-alt"></i> Bognar, M., van Ravenzwaaij, D., Varga, M.A., Kekecs, Z., **Grange, J.A.,** Gyurkovics, M., & Aczel, B. (2025). Multiverse simulation to explore the impact of analytical choices on Type I and Type II errors in a reaction time study. *Behavior Research Methods, 57,* 291. --- <a href="https://link.springer.com/article/10.3758/s13428-025-02807-y" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a> --- <a href="https://osf.io/65c4g/" target="_blank"><button><i class="fas fa-laptop"></i> Code</button></a> --- <a href="https://osf.io/65c4g/" target="_blank"><button><i class="fas fa-chart-bar"></i> Data</button></a>
 
+<i class="fas fa-file-alt"></i> Saunders, K.R., Campbell, P., Lamph, G., Rydon-Grange, M., Murphy, G., Rogers, B., Bradley, E., **Grange, J.A.,** Lambley-Burke, R., \& Kingstone, T. (2025). *Understanding research readiness in psychological services: mixed method findings from a cross-sectional survey pilot*. (White Paper) <a href="https://www.medrxiv.org/content/10.1101/2025.10.28.25338875v1" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a>
+
 <i class="fas fa-file-alt"></i> Rabi, R., Chow, J., **Grange, J.A.,** Hasher, L., Alain, C., & Anderson, N.D. (2025). Computational modelling of selective attention differentiates different subtypes of amnesic mild cognitive impairment. *Aging, Neuropsychology, and Cognition, 32,* 558--585. <a href="https://www.tandfonline.com/doi/full/10.1080/13825585.2024.2442786" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a>
 
 ## 2024
@@ -46,7 +48,7 @@ title: "Academic Publications"
 
 <i class="fas fa-file-alt"></i> **Grange, J.A.,** & Schuch, S. (2023). A spurious correlation between difference scores in evidence accumulation models. *Behavior Research Methods, 55,* 3348--3369. <a href="https://doi.org/10.3758/s13428-022-01956-8" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a> --- <a href="https://psyarxiv.com/u6py8/" target="_blank"><button><i class="fas fa-graduation-cap"></i> PsyArXiv</button></a> --- <a href="https://osf.io/2h4jt/" target="_blank"><button><i class="fas fa-laptop"></i> Code</button></a> --- <a href="https://osf.io/2h4jt/" target="_blank"><button><i class="fas fa-chart-bar"></i> Data</button></a>
 
-<i class="fas fa-file-alt"></i> **Grange, J.A.,** De'Bell, H., Stafford, T., Partridge, A., Jacobs, N., Munafo, M., & the UK Reproducibility Network. (2023). *Open research training resources and priorities*. (Working Paper No. 01). UK Reproducibility Network. <a href="https://osf.io/s2f6k/" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a>
+<i class="fas fa-file-alt"></i> **Grange, J.A.,** De'Bell, H., Stafford, T., Partridge, A., Jacobs, N., Munafo, M., & the UK Reproducibility Network. (2023). *Open research training resources and priorities*. (White Paper No. 01). UK Reproducibility Network. <a href="https://osf.io/s2f6k/" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a>
 
 <i class="fas fa-file-alt"></i> **Grange, J.A.** (2023). Rumination and inhibition in task switching: no evidence for an association. *Cognition and Emotion, 37*, 162--181. <a href="https://doi.org/10.1080/02699931.2023.2176289" target="_blank"><button><i class="fas fa-file-pdf"></i> PDF</button></a> --- <a href="https://psyarxiv.com/z3teh" target="_blank"><button><i class="fas fa-graduation-cap"></i> PsyArXiv</button></a> --- <a href="https://osf.io/fs964/" target="_blank"><button><i class="fas fa-laptop"></i> Code</button></a> --- <a href="https://osf.io/fs964/" target="_blank"><button><i class="fas fa-chart-bar"></i> Data</button></a>
 
