@@ -30,7 +30,7 @@ about:
 
 I am a Professor of Cognitive Science at [Keele University, UK](https://www.keele.ac.uk/psychology/) and Director of Research for the School of Psychology. I am also the University's Lead for Research Integrity and Improvement. I joined Keele in 2010 after completing my PhD at Bangor University under the supervision of [Dr George Houghton.](https://www.bangor.ac.uk/psychology/people/profiles/george_houghton.php.en)
 
-The mission of my lab's work is to conduct rigorous fundamental research to understand human cognition, and to then use this knowledge to tackle clinical and applied questions. I utilise behavioural measures together with computational modelling to address my research questions.
+I'm interested in one of the fundamental questions in cognitive science: how the mind produces flexible behaviour. Humans can rapidly adapt to new goals and situations, but we still lack a complete understanding of how the mind builds, updates, and uses the mental representations that make this possible. My research combines behavioural experiments with computational modelling to uncover the cognitive mechanisms underlying this flexibility, with applications spanning healthy ageing, clinical populations, and complex operational environments.
 
 </p>
 
