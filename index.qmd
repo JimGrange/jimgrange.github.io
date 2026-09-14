@@ -1,5 +1,5 @@
 ---
-title: "Jim Grange, PhD"
+title: "Jim Grange"
 image: images/portrait.jpeg
 about: 
   template: trestles
@@ -28,50 +28,13 @@ about:
 
 <p class="topbr">
 
-I am a Professor of Cognitive Science at [Keele University, UK](https://www.keele.ac.uk/psychology/) and Director of Research for the School of Psychology. I am also the University's Lead for Research Integrity and Improvement. I joined Keele in 2010 after completing my PhD at Bangor University under the supervision of [Dr George Houghton.](https://www.bangor.ac.uk/psychology/people/profiles/george_houghton.php.en)
+I am a Professor of Cognitive Science at [Keele University, UK](https://www.keele.ac.uk/psychology/) and Director of Research for the School of Psychology.
 
-I'm interested in one of the fundamental questions in cognitive science: how the mind produces flexible behaviour. Humans can rapidly adapt to new goals and situations, but we still lack a complete understanding of how the mind builds, updates, and uses the mental representations that make this possible. My research combines behavioural experiments with computational modelling to uncover the cognitive mechanisms underlying this flexibility, with applications spanning healthy ageing, clinical populations, and complex operational environments.
+I'm interested in one of the fundamental questions in cognitive science: how the mind produces flexible behaviour. Humans can rapidly adapt to new goals and situations, but we still lack a complete understanding of how the mind builds, updates, and uses the mental representations that make this possible.
+
+My research combines behavioural experiments with computational modelling to uncover the cognitive mechanisms underlying this flexibility, with applications spanning healthy ageing, clinical populations, and complex operational environments.
 
 </p>
 
 ------------------------------------------------------------------------
 
-### Education
-
-::: topbr
-<p class="custom-subtitle">
-
-<i class="fas fa-graduation-cap"></i> **PhD Cognitive Psychology, 2010**
-
-</p>
-
-<p class="custom-subtitle2">
-
-Bangor University, UK
-
-</p>
-
-<p class="custom-subtitle">
-
-<i class="fas fa-graduation-cap"></i> **MSc Psychological Research, 2007**
-
-</p>
-
-<p class="custom-subtitle2">
-
-Bangor University, UK
-
-</p>
-
-<p class="custom-subtitle">
-
-<i class="fas fa-graduation-cap"></i> **BSc Psychology, 2006**
-
-</p>
-
-<p class="custom-subtitle2">
-
-Bangor University, UK
-
-</p>
-:::
